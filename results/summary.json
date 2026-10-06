@@ -1,0 +1,44 @@
+{
+  "run": {
+    "generated": 720,
+    "accepted_unique": 719,
+    "delivery_rate": 0.9986111111111111,
+    "crc_failure_rate": 0.0012437810945273632,
+    "duplicate_rate": 0.1044776119402985,
+    "latency_p50_s": 0.12327895204248307,
+    "latency_p90_s": 0.22685138707006472,
+    "latency_p99_s": 0.6066441504535406,
+    "batches_sent": 36
+  },
+  "sweep": [
+    [
+      0.0,
+      1.0
+    ],
+    [
+      0.05,
+      1.0
+    ],
+    [
+      0.1,
+      1.0
+    ],
+    [
+      0.2,
+      1.0
+    ],
+    [
+      0.3,
+      0.9958333333333333
+    ]
+  ],
+  "gateway": {
+    "received_total": 804,
+    "crc_failed": 1,
+    "crc_failure_rate": 0.0012437810945273632,
+    "duplicates": 84,
+    "duplicate_rate": 0.1044776119402985,
+    "accepted_unique": 719,
+    "batches_sent": 36
+  }
+}

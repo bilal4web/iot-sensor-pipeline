@@ -1,0 +1,4 @@
+# IoT Sensor-to-Cloud Pipeline Simulator
+matplotlib>=3.6
+numpy>=1.24
+requests>=2.28
